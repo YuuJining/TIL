@@ -2,19 +2,19 @@
 
 <br/>
 
-#### :paperclip: Commit Message
+#### :paperclip:Commit Message
 ``` YYYY/MM/DD_<Categories>```
 
 <br/>
 
-#### :paperclip: Table Format
+#### :paperclip:Table Format
 | Title |Last Updated|
 |-------| :--------: |
 |ABCDEFG| YYYY/MM/DD |
 
 <br/>
 
-### :paperclip: Contents
+### :paperclip:Contents
 * [Android](#android)
 * [Git](#git)
 * [Kotlin](#kotlin)
@@ -26,10 +26,10 @@
 ## Android
 |                     |            |
 |---------------------| :--------- |
-|[fragment](https://github.com/YuuJining/TIL/blob/master/Android/fragment.md)|2020/05/30|
+|[Fragment](https://github.com/YuuJining/TIL/blob/master/Android/fragment.md)|2020/05/30|
 
 
-[↑ return to Contents](#-contents)
+[↑ return to Contents](#contents)
 
 
 <br/>
@@ -38,7 +38,7 @@
 |                     |            |
 |---------------------| :--------- |
 
-[↑ return to Contents](#-contents)
+[↑ return to Contents](#contents)
 
 <br/>
 
@@ -46,4 +46,4 @@
 |                     |            |
 |---------------------| :--------- |
 
-[↑ return to Contents](#-contents)
+[↑ return to Contents](#contents)
