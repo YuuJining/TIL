@@ -14,7 +14,7 @@
 
 <br/>
 
-#### :paperclip: Contents
+### :paperclip: Contents
 * [Android](#android)
 * [Git](#git)
 * [Kotlin](#kotlin)
@@ -27,9 +27,7 @@
 |                     |            |
 |---------------------| :--------- |
 |[Fragment](https://github.com/YuuJining/TIL/blob/master/Android/fragment.md)|2020/05/30|
-
-
-[↑ return to Contents](#contents)
+[return](#contents)
 
 
 <br/>
@@ -38,12 +36,8 @@
 |                     |            |
 |---------------------| :--------- |
 
-[↑ return to Contents](#contents)
-
 <br/>
 
 ## Kotlin
 |                     |            |
 |---------------------| :--------- |
-
-[↑ return to Contents](#contents)
