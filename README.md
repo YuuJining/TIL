@@ -27,7 +27,6 @@
 |                     |            |
 |---------------------| :--------- |
 |[Fragment](https://github.com/YuuJining/TIL/blob/master/Android/fragment.md)|2020/05/30|
-[return](#contents)
 
 
 <br/>
