@@ -17,7 +17,7 @@
 ### :paperclip: Contents
 * [Android](#android)
 * [Git](#git)
-* [Kotlin](#kotlin)
+* [React](#react)
 
 <br/>
 
@@ -37,6 +37,6 @@
 
 <br/>
 
-## Kotlin
+## React
 |                     |            |
 |---------------------| :--------- |
