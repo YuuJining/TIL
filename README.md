@@ -45,6 +45,6 @@
 |[Arrow_Function](https://github.com/YuuJining/TIL/blob/master/React/Arrow_Function.md)|2020/12/02|
 |[Class](https://github.com/YuuJining/TIL/blob/master/React/Classes.md)|2020/12/02|
 |[ForEach](https://github.com/YuuJining/TIL/blob/master/React/ForEach.md)|2020/12/05|
-|[Object_Desctructuring]()https://github.com/YuuJining/TIL/blob/master/React/Object_Desctructuring.md|2020/12/03|
+|[Object_Desctructuring](https://github.com/YuuJining/TIL/blob/master/React/Object_Desctructuring.md)|2020/12/03|
 |[Spread_Operator](https://github.com/YuuJining/TIL/blob/master/React/Spread_Operator.md)|2020/12/03|
 
