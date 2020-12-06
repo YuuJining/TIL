@@ -40,3 +40,11 @@
 ## React
 |                     |            |
 |---------------------| :--------- |
+|[Array_filter]()||
+|[Array_map]()||
+|[Arrow_Function]()||
+|[Class]()||
+|[ForEach]()||
+|[Object_Desctructuring]()||
+|[Spread_Operator]()||
+
